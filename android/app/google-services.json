@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "362480336780",
+    "firebase_url": "https://musiq-37659.firebaseio.com",
+    "project_id": "musiq-37659",
+    "storage_bucket": "musiq-37659.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362480336780:android:a5344e4f0d87d554",
+        "android_client_info": {
+          "package_name": "com.musiqapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362480336780-nf2s905e7e3cq9hahu21n4ske7t7l8cb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfkQFeY4xwch9N4ymyI2ye_4w-0xOip1s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

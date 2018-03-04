@@ -1,0 +1,26 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'MusiqApp' do
+
+  # Pods for MusiqApp
+
+  pod 'Firebase/Core'
+
+  target 'MusiqAppTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end
+
+target 'MusiqApp-tvOS' do
+
+  # Pods for MusiqApp-tvOS
+
+  target 'MusiqApp-tvOSTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end
