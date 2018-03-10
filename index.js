@@ -1,4 +1,4 @@
 import { AppRegistry } from 'react-native';
-import FirebaseLogin from './src/firebase-test/FirebaseLogin';
+import Firebase from './src/firebase-test/Firebase';
 
-AppRegistry.registerComponent('MusiqApp', () => FirebaseLogin);
+AppRegistry.registerComponent('MusiqApp', () => Firebase);

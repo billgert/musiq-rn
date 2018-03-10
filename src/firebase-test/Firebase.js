@@ -5,7 +5,7 @@ import firebase from 'react-native-firebase';
 
 class App extends Component {
   constructor() {
-    super();
+    super()
 
     var db = firebase.firestore();
     db.collection("users").add({
